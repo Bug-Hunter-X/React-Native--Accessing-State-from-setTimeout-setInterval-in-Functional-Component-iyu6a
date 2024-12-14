@@ -1,0 +1,1 @@
+This error occurs when you use a functional component in React Native and try to access state variables or functions from within a setTimeout or setInterval callback without proper handling of the component's lifecycle.
